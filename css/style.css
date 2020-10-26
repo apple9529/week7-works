@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+body {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+
+.오늘의기분은 {
+        font-size: 90px; 
+        color: #5d91cd;
+        position: absolute;
+        left: 34%;
+        top: 10%;
+}
+
+.대개봉 {
+        font-size: 25px; 
+        color: white;
+        position: absolute;
+        left: 44%;
+        top: 2%;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+.colored-background {
+    width: 20%;
+    height: 100%;
+    position: fixed;
+}
+
+.fear {
+    right: 88%; 
+    bottom:-1%; 
+    width: 18%; 
+    height: 49%; 
+    position: absolute;
+}
+
+.anger {
+    right: 60.5%; 
+    bottom:-1%; 
+    width: 19%; 
+    height: 34%; 
+    position: absolute;
+}
+
+.joy {
+    right: 39%; 
+    bottom:-2%; 
+    width: 19%; 
+    height: 59%; 
+    position: absolute;
+}
+
+.disgust {
+    right: 20%; 
+    bottom:0%; 
+    width: 17%; 
+    height: 43%; 
+    position: absolute;
+}
+
+.sadness {
+    right: 2%; 
+    bottom:1%; 
+    width: 17%; 
+    height: 40%; 
+    position: absolute;
+}
